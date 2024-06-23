@@ -1,0 +1,17 @@
+.odd {
+    background-color: rgb(255, 150, 150);
+    font-family: Verdana, sans-serif, Tahoma, sans-serif;
+}
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+.font-changer {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
