@@ -1,0 +1,14 @@
+.yclick{
+background-color: black;
+color: white;
+font-weight: bold;    
+}
+
+.dnclick{
+    background-color: yellow;
+}
+
+.btn{
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+}
